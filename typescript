@@ -1,0 +1,11 @@
+Script started on 2024-08-10 15:15:13+03:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="86" LINES="22"]
+bash: export: `Code/bin:/mnt/c/Users/admin/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program': not a valid identifier
+bash: export: `Files/Git/cmd:/mnt/c/Program': not a valid identifier
+bash: export: `Files/GitHub': not a valid identifier
+bash: export: `CLI/:/home/beast/.local/share/solana/install/active_release/bin:/home/beast/.local/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/beast/go/bin:/usr/local/go/bin:/home/beast/.local/share/solana/install/active_release/bin:/home/beast/.local/bin:/home/beast/.cargo/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/beast/.nvm/versions/node/v20.12.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program:/usr/local/go/bin:/usr/local/go/bin:/usr/local/go/bin:/usr/local/go/bin:/home/beast/go/go/bin:/usr/local/go/bin': not a valid identifier
+[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[00m$ echo 'hello'
+[?2004lhello
+[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-10 15:15:24+03:00 [COMMAND_EXIT_CODE="0"]
