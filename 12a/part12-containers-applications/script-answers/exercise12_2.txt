@@ -1373,4 +1373,12 @@ Sorry, try again.
 [?2004l[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12/12a[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12/12a[00m$ cd ..
 [?2004l[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[00m$ ls
 [?2004l[0m[34;42m12a[0m  [01;32mREADME.md[0m  [01;32mtypescript[0m
-[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/full
+[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[00m$ git add .
+[?2004lgi[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[00m$ git commit -m ''p'a'r' [A]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TFSG0II[00m:[01;34m/mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct' 'a'
+[?2004l[main a4e6085] part a
+ 4 files changed, 1903 insertions(+)
+ create mode 100644 12a/part12-containers-applications/script-answers/exercise12_2.txt
+ create mode 100644 12a/part12-containers-applications/script-answers/exercise12_4.txt
+ create mode 100644 12a/part12-containers-applications/script-answers/index.js
+ create mode 100644 typescript
+[?2004h]0;beast@DESKTOP-TFSG0II: /mnt/c/D/FULLSTACKOPEN/fullstackopen_part12[01;32mbeast@DESKTOP-TF
