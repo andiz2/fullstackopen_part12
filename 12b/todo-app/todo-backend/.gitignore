@@ -63,3 +63,6 @@ typings/
 #mongodb
 /data/db
 /mogo-db-data
+
+#redis
+/redis_data
